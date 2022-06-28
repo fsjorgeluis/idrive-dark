@@ -1,0 +1,21 @@
+{
+    "name": "idrive-dark",
+    "displayName": "iDrive Dark",
+    "description": "Cool dark theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "iDrive Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/iDrive Dark-color-theme.json"
+            }
+        ]
+    }
+}
