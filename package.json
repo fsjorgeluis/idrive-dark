@@ -1,21 +1,37 @@
 {
-    "name": "idrive-dark",
-    "displayName": "iDrive Dark",
-    "description": "Cool dark theme!",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.68.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "iDrive Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/iDrive Dark-color-theme.json"
-            }
-        ]
-    }
+	"name": "idrive-dark",
+	"displayName": "iDrive Dark",
+	"description": "Cool vscode dark theme!",
+	"version": "1.0.0",
+	"publisher": "LinkToDev",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fsjorgeluis/idrive-dark.git"
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"linkToDev",
+		"iDriveDark",
+		"iDrive Dark"
+	],
+	"engines": {
+		"vscode": "^1.68.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "iDrive Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/iDrive Dark-color-theme.json"
+			}
+		]
+	},
+	"author": {
+		"name": "Jorge Fernandez",
+		"email": "fsjorgeluis@gmail.com"
+	}
 }
