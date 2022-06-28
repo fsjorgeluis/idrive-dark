@@ -83,7 +83,8 @@
 			"name": "New keyword, logical operator keyword",
 			"scope": ["keyword.operator.new", "keyword.operator.logical"],
 			"settings": {
-				"foreground": "#D52941"
+				"foreground": "#D52941",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -104,7 +105,7 @@
 			"name": "Variables",
 			"scope": ["variable", "string constant.other.placeholder"],
 			"settings": {
-				"foreground": "#939da5"
+				"foreground": "#6EFAFB"
 			}
 		},
 		{
@@ -132,7 +133,8 @@
 			"name": "Operator, Misc",
 			"scope": ["keyword.control"],
 			"settings": {
-				"foreground": "#D52941"
+				"foreground": "#D52941",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -225,6 +227,7 @@
 				"foreground": "#87EBEB"
 			}
 		},
+
 		{
 			"scope": "variable.other.constant",
 			"settings": {
@@ -327,7 +330,8 @@
 			"name": "Language methods",
 			"scope": ["variable.language"],
 			"settings": {
-				"foreground": "#939da5"
+				"foreground": "#279AF1",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -351,7 +355,7 @@
 			"name": "function arrow",
 			"scope": ["storage.type.function.arrow"],
 			"settings": {
-				"foreground": "#939da5"
+				"foreground": "#6EFAFB"
 			}
 		},
 		{
@@ -362,7 +366,8 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#89ddff"
+				"foreground": "#89ddff",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -604,14 +609,15 @@
 			"name": "Entity Type Class",
 			"scope": ["entity.name.type.class"],
 			"settings": {
-				"foreground": "#ff6a80"
+				"foreground": "#6EFAFB"
 			}
 		},
 		{
 			"name": "Module",
 			"scope": ["support.type.object.module"],
 			"settings": {
-				"foreground": "#ba8ef7"
+				"foreground": "#6EFAFB",
+				"fontStyle": "italic"
 			}
 		},
 		{
