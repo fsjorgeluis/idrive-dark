@@ -83,7 +83,7 @@
 			"name": "New keyword, logical operator keyword",
 			"scope": ["keyword.operator.new", "keyword.operator.logical"],
 			"settings": {
-				"foreground": "#ba8ef7"
+				"foreground": "#D52941"
 			}
 		},
 		{
@@ -118,28 +118,28 @@
 			"name": "Keyword, Storage",
 			"scope": ["keyword", "storage.type", "storage.modifier"],
 			"settings": {
-				"foreground": "#ba8ef7"
+				"foreground": "#279AF1"
 			}
 		},
 		{
 			"name": "Operators",
 			"scope": ["keyword.operator"],
 			"settings": {
-				"foreground": "#ba8ef7"
+				"foreground": "#D52941"
 			}
 		},
 		{
 			"name": "Operator, Misc",
 			"scope": ["keyword.control"],
 			"settings": {
-				"foreground": "#ba8ef7"
+				"foreground": "#D52941"
 			}
 		},
 		{
 			"name": "Constant",
 			"scope": ["constant.language", "variable.other.property"],
 			"settings": {
-				"foreground": "#ffa763"
+				"foreground": "#FFA630"
 			}
 		},
 		{
@@ -150,7 +150,7 @@
 				"meta.template.expression"
 			],
 			"settings": {
-				"foreground": "#939da5"
+				"foreground": "#279AF1"
 			}
 		},
 		{
@@ -201,14 +201,14 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#ffea6b"
+				"foreground": "#F7FE72"
 			}
 		},
 		{
 			"name": "Function, Special Method",
 			"scope": ["punctuation.definition.arguments", "meta.function-call"],
 			"settings": {
-				"foreground": "#939da5"
+				"foreground": "#279AF1"
 			}
 		},
 		{
@@ -222,13 +222,13 @@
 			"name": "Block Level Variables",
 			"scope": ["variable.other"],
 			"settings": {
-				"foreground": "#b2eeee"
+				"foreground": "#87EBEB"
 			}
 		},
 		{
 			"scope": "variable.other.constant",
 			"settings": {
-				"foreground": "#4fd6d6"
+				"foreground": "#7ABAEB"
 			}
 		},
 		{
@@ -249,7 +249,7 @@
 				"variable.parameter"
 			],
 			"settings": {
-				"foreground": "#b2eeee"
+				"foreground": "#6EFAFB"
 			}
 		},
 		{
@@ -421,14 +421,14 @@
 			"name": "Regular Expressions",
 			"scope": ["string.regexp"],
 			"settings": {
-				"foreground": "#56adb7"
+				"foreground": "#5bec95"
 			}
 		},
 		{
 			"name": "Escape Characters",
 			"scope": ["constant.character.escape"],
 			"settings": {
-				"foreground": "#89ddff"
+				"foreground": "#32b165"
 			}
 		},
 		{
@@ -618,7 +618,7 @@
 			"name": "Boolean",
 			"scope": ["constant.language.boolean"],
 			"settings": {
-				"foreground": "#ba8ef7"
+				"foreground": "#279AF1"
 			}
 		}
 	]
